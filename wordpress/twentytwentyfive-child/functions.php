@@ -1,6 +1,6 @@
 <?php
 /**
- * Twenty Twenty-Five Child — functions.php
+ * Twenty Twenty-Five Child - functions.php
  *
  * Step 1: load the parent theme stylesheet.
  */
