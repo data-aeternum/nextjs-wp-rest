@@ -1,4 +1,5 @@
 {
+  "name": "nextjs-wp-rest",
   "private": true,
   "scripts": {
     "build": "next build",
@@ -6,16 +7,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "got": "^14.4.7",
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   },
   "engines": {
     "node": ">=18"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.5.5",
-    "postcss": "^8.5.28",
-    "tailwindcss": "^4.3.3"
   }
 }

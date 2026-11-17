@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Tad MacPherson';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'Next.js + WordPress REST API';
 
 export default function Layout({ children, home }) {
     return (
